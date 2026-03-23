@@ -1,0 +1,25 @@
+{
+  "name": "Limit Card Game",
+  "short_name": "Limit",
+  "description": "The card game Limit - 13 rounds of strategic trick-taking",
+  "start_url": "/limit-card-game/",
+  "scope": "/limit-card-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F3D25",
+  "theme_color": "#0F3D25",
+  "icons": [
+    {
+      "src": "/limit-card-game/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/limit-card-game/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
